@@ -1,13 +1,13 @@
-# 🌐 Praktikum Jaringan Komputer — Konfigurasi Router dan Switch
+# Praktikum Jaringan Komputer — Konfigurasi Router dan Switch
 
 ---
 
-## 📘 Deskripsi
+## Deskripsi
 Proyek ini merupakan implementasi **praktikum konfigurasi jaringan komputer** menggunakan perangkat Cisco (Router ISR4331, Switch 2960, dan dua PC). Tujuan dari kegiatan ini adalah agar mahasiswa memahami proses pengaturan IP address, routing, serta pengujian konektivitas antar subnet menggunakan perintah *ping*.
 
 ---
 
-## 🎥 Video Penjelasan
+## Video Penjelasan
 [Tonton di YouTube](https://youtu.be/19tv6ZDVHyA)
 
 ---
@@ -56,7 +56,7 @@ Hasil pengujian dari PC-B menunjukkan bahwa ping ke 192.168.1.3 (PC-A), 192.168.
 
 ---
 
-## 🧠 Kesimpulan
+## Kesimpulan
 Praktikum ini membuktikan bahwa **konfigurasi router dan switch** berperan penting dalam membangun komunikasi antar subnet. Setelah router diaktifkan dan diatur dengan IP address serta routing yang benar:
 - Komunikasi antar perangkat dalam subnet maupun antar subnet berhasil dilakukan.
 - Proses *ping* dari kedua PC menunjukkan hasil *Reply from* tanpa error.
@@ -66,7 +66,7 @@ Dengan demikian, jaringan telah berfungsi optimal dan konfigurasi berjalan sesua
 
 ---
 
-📌 **Disusun oleh:**  
+**Disusun oleh:**  
 **Nadjwa Tasya Safira (2315061024)**  
 Fakultas Teknik – Universitas Lampung  
 Tahun Akademik 2025
